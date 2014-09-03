@@ -1,7 +1,7 @@
 //
 //  NSDate+Julian.m
 //
-//  Formula sources: http://en.wikipedia.org/wiki/Julian_day)
+//  Formula sources: http://en.wikipedia.org/wiki/Julian_day
 //                   http://users.electromagnetic.net/bu/astro/sunrise-set.php
 //
 //  Copyright (c) 2014, Ian Wagner
