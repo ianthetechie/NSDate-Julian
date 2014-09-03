@@ -3,7 +3,7 @@ NSDate+Julian
 
 This is an NSDate Category for working with Julian dates + a few fun extras like sunrise and sunset calculaiton.
 
-I created this set of funcitons because I needed to be able to tell whether the user was using the app during daylight
+I created this set of functions because I needed to be able to tell whether the user was using the app during daylight
 hours (defined as the sun being up) or not for a Pebble GPS app (Pebble Pilot GPS) with the goal of watch battery
 longevity. I have included my sunrise/sunset computation method in the category in case anyone finds it useful. I even
 went so far as to make the return value reflect midnight sun (sunset is NAN) and polar night (sunrise is NAN)
