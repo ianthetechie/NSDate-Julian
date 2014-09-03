@@ -1,4 +1,4 @@
-NSDate-Julian
+NSDate+Julian
 =============
 
 This is an NSDate Category for working with Julian dates + a few fun extras like sunrise and sunset calculaiton.
